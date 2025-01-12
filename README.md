@@ -38,7 +38,8 @@ resolution for ultrasonic images no matter the depth.
 
 
 ## 🔎 Project Overview
-- Our device aims to break The Attenuation-Depth-Frequency Trade-Off law which is based on the 
+- Our device aims to break The Attenuation-Depth-Frequency Trade-Off law 
+(in other words the Law of conservations of energy)which is based on the 
 Law of Conservation of Energy. By sending a wave, we call (Super Wave) that can regenerate its 
 energy, leading to no attenuation whatsoever.  
 We believe the images will be of great quality. This device interface with existing ultrasound 
