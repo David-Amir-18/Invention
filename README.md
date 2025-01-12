@@ -55,19 +55,8 @@ properties of tissues," 1997 IEEE Ultrasonics Symposium Proceedings. An Internat
 No.97CH36118), Toronto, ON, Canada, 1997, pp. 1561-1566 vol.2, doi: 10.1109/ULTSYM.1997.663294. 
 - [2] J. D. Thomas and D. N. Rubin, "Tissue harmonic imaging: Why does it work?," Journal of the American 
 Society of Echocardiography, vol. 11, no. 8, pp. 803-808, 1998.
-## 📷 Screenshots <a name = "screenshots" ></a>
-
-<div name="Screenshots" align="center">
-   <img width=60% src="Screenshots/Screenshot_1.png" alt="logo">
-   <hr>
-    <img width=60% src="Screenshots/Screenshot_2.png" alt="logo">
-    <hr>
-  
-   <img width=60% src="Screenshots/Screenshot_3.png" alt="logo">
-   <hr>
-     <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
-   <hr>
-</div>
+## 📷 Demo <a name = "screenshots" ></a>
+https://github.com/hamdy-cufe-eng/Invention/blob/main/Invention-Task-Resolving-Issue.mp4
 
 ## Contributors <a name = "contributors"></a>
 <table align="center">
