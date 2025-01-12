@@ -25,7 +25,7 @@
 
 - Superwaver Invention
 
-## 💡Introduction
+## 💡 Introduction
 - Ultrasounds are being increasingly used in diagnostic imaging, owing to the relatively non
 invasive nature and ability to capture real-time images of soft tissues. But today’s ultrasound 
 systems tend to have a low resolution in the high depth ranges, so they cannot identify small or 
@@ -33,7 +33,7 @@ subtle abnormalities. This proposal details a device that has been designed to h
 resolution for ultrasonic images no matter the depth.
 
 
-## 🏁 Project Overview
+## 🔎 Project Overview
 - Our device aims to break The Attenuation-Depth-Frequency Trade-Off law which is based on the 
 Law of Conservation of Energy. By sending a wave, we call (Super Wave) that can regenerate its 
 energy, leading to no attenuation whatsoever.  
@@ -49,7 +49,7 @@ their diagnosis.
 Affordable Option: This device enhances current systems instead of replacing them allowing for a cheap 
 way to upgrade the ultrasound.
 
-### Refernces :
+## 📖 Refernces :
 - [1] M. A. Averkiou, D. N. Roundhill and J. E. Powers, "A new imaging technique based on the nonlinear 
 properties of tissues," 1997 IEEE Ultrasonics Symposium Proceedings. An International Symposium (Cat. 
 No.97CH36118), Toronto, ON, Canada, 1997, pp. 1561-1566 vol.2, doi: 10.1109/ULTSYM.1997.663294. 
