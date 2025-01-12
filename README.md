@@ -57,11 +57,7 @@ No.97CH36118), Toronto, ON, Canada, 1997, pp. 1561-1566 vol.2, doi: 10.1109/ULTS
 Society of Echocardiography, vol. 11, no. 8, pp. 803-808, 1998.
 ## 📷 Demo <a name = "screenshots" ></a>
 
-<video controls>
-  <source src="https://github.com/hamdy-cufe-eng/Invention/blob/main/Invention-Task-Resolving-Issue.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/hamdy-cufe-eng/Invention/blob/main/Invention-Task-Resolving-Issue.mp4
 
 ## Contributors <a name = "contributors"></a>
 <table align="center">
